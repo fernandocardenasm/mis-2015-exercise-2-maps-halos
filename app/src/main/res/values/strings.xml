@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapAssignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="preference_file_key">com.example.usuario.mapassignment.PREFERENCE_FILE_KEY</string>
+</resources>
